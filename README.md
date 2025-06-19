@@ -1,3 +1,3 @@
 # ohnoesgit
 
-TEST initial commit
+* TEST initial commit
